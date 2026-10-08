@@ -1,0 +1,115 @@
+{
+  "source": "OpenStreetMap contributors, https://www.openstreetmap.org/copyright (ODbL 1.0)",
+  "retrieved": "2026-09-29",
+  "note": "Main towns of Turkana County's seven sub-counties. Coordinates are OpenStreetMap points, not official survey data.",
+  "sub_counties": [
+    "Turkana Central",
+    "Turkana West",
+    "Turkana North",
+    "Turkana South",
+    "Turkana East",
+    "Loima",
+    "Kibish"
+  ],
+  "places": [
+    {
+      "id": "lodwar",
+      "name": "Lodwar",
+      "sub_county": "Turkana Central",
+      "kind": "sub-county headquarters",
+      "lat": 3.11659,
+      "lon": 35.60229,
+      "osm_id": "node/44931375"
+    },
+    {
+      "id": "kalokol",
+      "name": "Kalokol",
+      "sub_county": "Turkana Central",
+      "kind": "town",
+      "lat": 3.53274,
+      "lon": 35.85702,
+      "osm_id": "node/44931399"
+    },
+    {
+      "id": "kakuma",
+      "name": "Kakuma",
+      "sub_county": "Turkana West",
+      "kind": "sub-county headquarters",
+      "lat": 3.70629,
+      "lon": 34.87349,
+      "osm_id": "node/10863666006"
+    },
+    {
+      "id": "lokichogio",
+      "name": "Lokichogio",
+      "sub_county": "Turkana West",
+      "kind": "town",
+      "lat": 4.20507,
+      "lon": 34.36004,
+      "osm_id": "node/44931411"
+    },
+    {
+      "id": "kalobeyei",
+      "name": "Kalobeyei",
+      "sub_county": "Turkana West",
+      "kind": "town",
+      "lat": 3.76669,
+      "lon": 34.62515,
+      "osm_id": "node/3069442033"
+    },
+    {
+      "id": "lorugum",
+      "name": "Lorugum",
+      "sub_county": "Loima",
+      "kind": "sub-county headquarters",
+      "lat": 2.88789,
+      "lon": 35.26378,
+      "osm_id": "node/10865216047"
+    },
+    {
+      "id": "lokitaung",
+      "name": "Lokitaung",
+      "sub_county": "Turkana North",
+      "kind": "sub-county headquarters",
+      "lat": 4.26912,
+      "lon": 35.75226,
+      "osm_id": "node/44931361"
+    },
+    {
+      "id": "lokori",
+      "name": "Lokori",
+      "sub_county": "Turkana East",
+      "kind": "sub-county headquarters",
+      "lat": 1.95177,
+      "lon": 36.02888,
+      "osm_id": "node/8409958703"
+    },
+    {
+      "id": "lokichar",
+      "name": "Lokichar",
+      "sub_county": "Turkana South",
+      "kind": "sub-county headquarters",
+      "lat": 2.37666,
+      "lon": 35.64599,
+      "osm_id": "node/44931366"
+    },
+    {
+      "id": "kibish",
+      "name": "Kibish",
+      "sub_county": "Kibish",
+      "kind": "sub-county headquarters",
+      "lat": 5.2874,
+      "lon": 35.82527,
+      "osm_id": "node/3461241432"
+    },
+    {
+      "id": "kaikor",
+      "name": "Kaikor",
+      "sub_county": "Kibish",
+      "kind": "town",
+      "lat": 4.51851,
+      "lon": 35.4212,
+      "osm_id": "node/10872227063"
+    }
+  ]
+}
